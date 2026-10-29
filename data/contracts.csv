@@ -1,0 +1,60 @@
+ContractID,SupplierID,ContractTitle,StartDate,EndDate,ContractValue,RenewalOption,ContractOwner,Status
+C0001,S001,Fleet & Bus Maintenance - Services Agreement,2026-12-05,2027-12-05,1116000.0,Yes,Rail Operations,Active
+C0002,S001,Fleet & Bus Maintenance - Services Agreement,2026-06-07,2028-06-06,688000.0,Yes,Rail Operations,Active
+C0003,S001,Fleet & Bus Maintenance - Framework Agreement,2026-07-01,2027-07-01,977000.0,No,Infrastructure,Active
+C0004,S002,Fleet & Bus Maintenance - Supply Agreement,2025-03-17,2029-03-16,2678000.0,Yes,Corporate Services,Active
+C0005,S002,Fleet & Bus Maintenance - Maintenance Agreement,2023-04-27,2027-04-26,1990000.0,Yes,Customer & Digital,Active
+C0006,S003,Fleet & Bus Maintenance - Supply Agreement,2026-07-15,2028-07-14,1802000.0,Yes,Infrastructure,Active
+C0007,S003,Fleet & Bus Maintenance - Services Agreement,2021-08-20,2026-08-19,3070000.0,Yes,Rail Operations,Expired
+C0008,S004,Fleet & Bus Maintenance - Services Agreement,2027-03-01,2028-02-29,710000.0,Yes,Bus Operations,Active
+C0009,S004,Fleet & Bus Maintenance - Panel Agreement,2022-09-11,2026-09-10,6314000.0,Yes,Rail Operations,Expired
+C0010,S005,Fleet & Bus Maintenance - Maintenance Agreement,2026-01-20,2027-01-20,581000.0,No,Customer & Digital,Active
+C0011,S005,Fleet & Bus Maintenance - Supply Agreement,2024-10-16,2027-10-16,3297000.0,Yes,Bus Operations,Active
+C0012,S006,Fleet & Bus Maintenance - Panel Agreement,2024-11-20,2027-11-20,2807000.0,Yes,Bus Operations,Active
+C0013,S006,Fleet & Bus Maintenance - Panel Agreement,2023-11-29,2027-11-28,3937000.0,Yes,Infrastructure,Active
+C0014,S006,Fleet & Bus Maintenance - Maintenance Agreement,2022-04-22,2027-04-21,2664000.0,Yes,Infrastructure,Active
+C0015,S007,Rail Infrastructure - Framework Agreement,2026-07-26,2027-07-26,1352000.0,Yes,Rail Operations,Active
+C0016,S007,Rail Infrastructure - Panel Agreement,2024-06-08,2027-06-08,2941000.0,Yes,Rail Operations,Active
+C0017,S008,Rail Infrastructure - Supply Agreement,2024-07-20,2028-07-19,5337000.0,No,Bus Operations,Active
+C0018,S008,Rail Infrastructure - Panel Agreement,2022-03-16,2027-03-15,3858000.0,Yes,Infrastructure,Active
+C0019,S009,Rail Infrastructure - Framework Agreement,2022-10-30,2027-10-29,3979000.0,No,Corporate Services,Active
+C0020,S009,Rail Infrastructure - Maintenance Agreement,2026-04-07,2028-04-06,2450000.0,No,Bus Operations,Active
+C0021,S010,Rail Infrastructure - Framework Agreement,2023-09-14,2026-09-13,2032000.0,No,Customer & Digital,Expired
+C0022,S011,Rail Infrastructure - Framework Agreement,2024-11-15,2028-11-14,4712000.0,Yes,Infrastructure,Active
+C0023,S012,IT & Digital Systems - Maintenance Agreement,2027-09-03,2028-09-02,489000.0,Yes,Rail Operations,Active
+C0024,S012,IT & Digital Systems - Panel Agreement,2024-08-09,2028-08-08,2630000.0,Yes,Customer & Digital,Active
+C0025,S013,IT & Digital Systems - Framework Agreement,2025-10-05,2026-10-05,548000.0,Yes,Rail Operations,Expired
+C0026,S014,IT & Digital Systems - Supply Agreement,2024-12-13,2028-12-12,4846000.0,No,Rail Operations,Active
+C0027,S014,IT & Digital Systems - Maintenance Agreement,2027-03-20,2029-03-19,1197000.0,Yes,Bus Operations,Active
+C0028,S015,IT & Digital Systems - Panel Agreement,2025-05-03,2027-05-03,1656000.0,Yes,Rail Operations,Active
+C0029,S016,IT & Digital Systems - Maintenance Agreement,2023-06-19,2028-06-17,1631000.0,No,Bus Operations,Active
+C0030,S016,IT & Digital Systems - Framework Agreement,2027-07-09,2028-07-08,309000.0,Yes,Bus Operations,Active
+C0031,S017,Facilities & Cleaning - Supply Agreement,2021-10-20,2026-10-19,1486000.0,Yes,Infrastructure,Expired
+C0032,S017,Facilities & Cleaning - Framework Agreement,2023-06-07,2027-06-06,1296000.0,No,Infrastructure,Active
+C0033,S018,Facilities & Cleaning - Framework Agreement,2025-01-31,2028-01-31,1147000.0,Yes,Bus Operations,Active
+C0034,S019,Facilities & Cleaning - Framework Agreement,2023-08-07,2026-08-06,2684000.0,No,Corporate Services,Expired
+C0035,S019,Facilities & Cleaning - Maintenance Agreement,2022-10-02,2027-10-01,1302000.0,Yes,Corporate Services,Active
+C0036,S020,Facilities & Cleaning - Maintenance Agreement,2026-10-30,2028-10-29,505000.0,Yes,Rail Operations,Active
+C0037,S021,Safety & Security - Framework Agreement,2025-02-09,2029-02-08,5437000.0,Yes,Bus Operations,Active
+C0038,S021,Safety & Security - Maintenance Agreement,2027-02-03,2029-02-02,859000.0,No,Rail Operations,Active
+C0039,S021,Safety & Security - Supply Agreement,2025-01-07,2028-01-07,709000.0,No,Customer & Digital,Active
+C0040,S022,Safety & Security - Maintenance Agreement,2021-11-13,2026-11-12,1253000.0,Yes,Infrastructure,Active
+C0041,S022,Safety & Security - Framework Agreement,2027-10-25,2028-10-24,275000.0,No,Bus Operations,Active
+C0042,S022,Safety & Security - Maintenance Agreement,2024-01-11,2027-01-10,1119000.0,Yes,Bus Operations,Active
+C0043,S023,Safety & Security - Panel Agreement,2027-07-02,2028-07-01,505000.0,Yes,Infrastructure,Active
+C0044,S023,Safety & Security - Services Agreement,2024-12-23,2027-12-23,1459000.0,Yes,Customer & Digital,Active
+C0045,S024,Safety & Security - Maintenance Agreement,2024-12-14,2028-12-13,1255000.0,Yes,Bus Operations,Active
+C0046,S024,Safety & Security - Services Agreement,2022-03-23,2027-03-22,6408000.0,Yes,Infrastructure,Active
+C0047,S025,Professional Services - Supply Agreement,2025-08-07,2026-08-07,342000.0,Yes,Bus Operations,Expired
+C0048,S025,Professional Services - Panel Agreement,2021-11-14,2026-11-13,1907000.0,Yes,Customer & Digital,Active
+C0049,S026,Professional Services - Supply Agreement,2024-01-11,2029-01-09,861000.0,No,Customer & Digital,Active
+C0050,S026,Professional Services - Services Agreement,2024-04-28,2028-04-27,1037000.0,Yes,Bus Operations,Active
+C0051,S026,Professional Services - Framework Agreement,2025-12-22,2027-12-22,1252000.0,Yes,Infrastructure,Active
+C0052,S027,Professional Services - Supply Agreement,2023-04-05,2027-04-04,996000.0,Yes,Bus Operations,Active
+C0053,S027,Professional Services - Supply Agreement,2025-03-21,2028-03-20,418000.0,Yes,Corporate Services,Active
+C0054,S028,Energy & Fuel - Supply Agreement,2024-08-10,2027-08-10,1772000.0,No,Rail Operations,Active
+C0055,S028,Energy & Fuel - Services Agreement,2025-01-24,2029-01-23,9511000.0,Yes,Rail Operations,Active
+C0056,S029,Energy & Fuel - Services Agreement,2022-11-28,2027-11-27,7564000.0,Yes,Corporate Services,Active
+C0057,S029,Energy & Fuel - Supply Agreement,2022-10-11,2026-10-10,6561000.0,Yes,Infrastructure,Expired
+C0058,S029,Energy & Fuel - Framework Agreement,2023-12-12,2027-12-11,4143000.0,No,Corporate Services,Active
+C0059,S030,Energy & Fuel - Maintenance Agreement,2024-07-19,2028-07-18,5764000.0,Yes,Customer & Digital,Active

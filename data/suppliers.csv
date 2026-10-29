@@ -1,0 +1,31 @@
+SupplierID,SupplierName,Category,Tier,Region
+S001,Swan Fleet Services,Fleet & Bus Maintenance,Standard,Perth Metro
+S002,Kwinana Bus Parts,Fleet & Bus Maintenance,Strategic,Peel
+S003,Perth Coachworks,Fleet & Bus Maintenance,Strategic,South West
+S004,Darling Diesel Systems,Fleet & Bus Maintenance,Standard,Pilbara
+S005,Westline Tyres & Brakes,Fleet & Bus Maintenance,Strategic,Perth Metro
+S006,Fremantle Drivetrain Co,Fleet & Bus Maintenance,Preferred,South West
+S007,Pilbara Track Systems,Rail Infrastructure,Preferred,Wheatbelt
+S008,Midland Rail Components,Rail Infrastructure,Preferred,Perth Metro
+S009,Southern Cross Signalling,Rail Infrastructure,Strategic,Perth Metro
+S010,Avon Sleepers & Ballast,Rail Infrastructure,Standard,Peel
+S011,Hills Overhead Wiring,Rail Infrastructure,Standard,Perth Metro
+S012,Westcoast Data Solutions,IT & Digital Systems,Standard,Wheatbelt
+S013,Indigo Ticketing Tech,IT & Digital Systems,Standard,Perth Metro
+S014,Harbour Cloud Services,IT & Digital Systems,Preferred,Perth Metro
+S015,Northbridge Analytics,IT & Digital Systems,Strategic,Peel
+S016,Ocean Network Systems,IT & Digital Systems,Standard,South West
+S017,Clearview Station Cleaning,Facilities & Cleaning,Preferred,Perth Metro
+S018,Metro Facility Care,Facilities & Cleaning,Preferred,Perth Metro
+S019,Banksia Grounds & Gardens,Facilities & Cleaning,Strategic,Perth Metro
+S020,Peel Maintenance Group,Facilities & Cleaning,Strategic,Peel
+S021,Guardian Transit Security,Safety & Security,Preferred,Wheatbelt
+S022,SafeStation Systems,Safety & Security,Standard,Perth Metro
+S023,Bluegum CCTV & Access,Safety & Security,Standard,Wheatbelt
+S024,Rapid Response Safety,Safety & Security,Preferred,Perth Metro
+S025,Cityscape Planning Advisory,Professional Services,Standard,Perth Metro
+S026,Eastgate Engineering Consulting,Professional Services,Strategic,Perth Metro
+S027,Orbit Project Partners,Professional Services,Standard,Peel
+S028,Wheatbelt Fuels,Energy & Fuel,Standard,Pilbara
+S029,Gascoyne Energy Supply,Energy & Fuel,Preferred,Perth Metro
+S030,Solaris Charging Solutions,Energy & Fuel,Strategic,Perth Metro
