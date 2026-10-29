@@ -1,0 +1,29 @@
+{
+  "name": "Supply Chain Navy",
+  "dataColors": ["#0B3C5D", "#1F7A8C", "#F28E2B", "#8FB8CE", "#5C7F94", "#D1495B", "#A9B7C0", "#2E4057"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2933",
+  "tableAccent": "#0B3C5D",
+  "good": "#2E8B57",
+  "neutral": "#F28E2B",
+  "bad": "#D1495B",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F2933" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#52606D" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#0B3C5D" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#1F2933" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 12 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E1E7EC" } }, "radius": 6 }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F3F5F7" } }, "transparency": 0 }]
+      }
+    }
+  }
+}
